@@ -1,16 +1,16 @@
 ## Olá 👋
 
-Sou Rafael, desenvolvedor backend focado em criação de APIs, arquitetura de sistemas e aplicações web escaláveis.
+Sou Rafael, desenvolvedor backend focado na criação de APIs, arquitetura de sistemas e aplicações web escaláveis.
 
 Atualmente estudo Engenharia de Software e desenvolvo projetos voltados para boas práticas de desenvolvimento, performance e organização de código.
 
-Tenho experiência principalmente com Python e Django, além de conhecimentos em frontend utilizando React para construção de aplicações fullstack.
+Tenho experiência principalmente com Python utilizando Django e Django REST Framework, além de conhecimentos em frontend com React para construção de aplicações fullstack quando necessário.
 
-Este perfil reúne projetos pessoais, estudos e experimentos voltados para evolução técnica e desenvolvimento profissional.
+Este perfil reúne projetos pessoais, estudos e experimentos voltados à evolução técnica e desenvolvimento profissional.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Backend
 - Python
@@ -33,7 +33,7 @@ Este perfil reúne projetos pessoais, estudos e experimentos voltados para evolu
 
 ---
 
-## 📌 Áreas de Interesse
+## Áreas de Interesse
 
 - Arquitetura Backend
 - Desenvolvimento Fullstack
@@ -44,7 +44,7 @@ Este perfil reúne projetos pessoais, estudos e experimentos voltados para evolu
 
 ---
 
-## 📚 Atualmente Estudando
+## Atualmente Estudando
 
 - Padrões de Projeto
 - Boas práticas de APIs
