@@ -22,7 +22,7 @@ Este perfil reúne projetos pessoais, estudos e experimentos voltados à evoluç
 ### Frontend
 - React
 - Vite
-- HTML / CSS / TailwindCSS
+- HTML / CSS / TailwindCSS / JS
 
 ### Ferramentas
 - Git & GitHub
