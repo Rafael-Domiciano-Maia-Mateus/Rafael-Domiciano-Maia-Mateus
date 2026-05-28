@@ -55,4 +55,4 @@ Este perfil reúne projetos pessoais, estudos e experimentos voltados para evolu
 ## 📫 Contato
 
 - GitHub: [github.com/Rafael-Domiciano-Maia-Mateus](https://github.com/seuusuario)
-- LinkedIn: [linkedin.com/in/Rafael Maia](https://linkedin.com/in/seuperfil)
+- LinkedIn: [linkedin.com/in/rafael-maia-26b41a308](https://linkedin.com/in/seuperfil)
