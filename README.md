@@ -14,15 +14,16 @@ Este perfil reúne projetos pessoais, estudos e experimentos voltados para evolu
 
 ### Backend
 - Python
-- Django
-- Django REST Framework
-- APIs REST
+- JavaScript 
+- Django / Django REST Framework
+- ExpressJS
 - Autenticação JWT
 
 ### Frontend
 - React
 - JavaScript
 - Vite
+- HTML / CSS
 - TailwindCSS
 
 ### Ferramentas
