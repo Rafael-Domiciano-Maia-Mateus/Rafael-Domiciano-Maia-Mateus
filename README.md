@@ -52,8 +52,3 @@ Este perfil reúne projetos pessoais, estudos e experimentos voltados à evoluç
 - Testes automatizados
 
 ---
-
-## Contato
-
-- GitHub: [github.com/Rafael-Domiciano-Maia-Mateus](https://github.com/Rafael-Domiciano-Maia-Mateus)
-- LinkedIn: [linkedin.com/in/rafael-maia-26b41a308](https://linkedin.com/in/rafael-maia-26b41a308)
